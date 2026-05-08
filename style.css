@@ -1493,3 +1493,7 @@ body.music-mode .bora-title {
     background-position: 0% 50%;
   }
 }
+
+.section era-section {
+  display:hidden;
+}
